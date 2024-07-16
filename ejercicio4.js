@@ -60,7 +60,7 @@ function removeItem (array, text) {
   }
 }
 
-// Ejemplos parte 1.
+// Ejemplos parte 2.
 console.log("\nEjemplos para la segunda parte del ejercicio: ")
 removeItem (mainCharacters, "Luke");
 removeItem (mainCharacters, "Agapornis");
